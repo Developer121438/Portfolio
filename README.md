@@ -2,7 +2,7 @@
 
 A modern, responsive personal portfolio website showcasing my projects, technical skills, and journey as an aspiring Front-End Developer.
 
-**Live Demo:** [View Portfolio](YOUR_PORTFOLIO_URL)
+**Live Demo:** [View Portfolio](https://developer121438.github.io/Portfolio/)
 
 ## About the Project
 
@@ -43,7 +43,7 @@ To run this project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Developer121438/YOUR_REPOSITORY_NAME.git
+   git clone https://github.com/Developer121438/Portfolio.git
    ```
 
 2. Open the project directory.
@@ -64,9 +64,9 @@ No additional installation is required.
 I'm open to collaboration, learning opportunities, and connecting with fellow developers.
 
 - **GitHub:** [Developer121438](https://github.com/Developer121438)
-- **LinkedIn:** Add your LinkedIn URL
-- **Email:** Add your email address
-- **Telegram:** Add your Telegram URL
+- **LinkedIn:** linkedin.com/in/dejen-angaw-67b14343b
+- **Email:** dejenangaw277@gmail.com
+- **Telegram:** https://t.me/LFHW1214
 
 ## Author
 
